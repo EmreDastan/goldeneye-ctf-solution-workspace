@@ -1,0 +1,4 @@
+# Nmap 7.93 scan initiated Fri Mar 17 07:50:26 2023 as: nmap -sC -sV -p- -oG nmapresults.txt 10.10.2.105
+Host: 10.10.2.105 ()	Status: Up
+Host: 10.10.2.105 ()	Ports: 25/open/tcp//smtp//Postfix smtpd/, 80/open/tcp//http//Apache httpd 2.4.7 ((Ubuntu))/, 55006/open/tcp//ssl|pop3//Dovecot pop3d/, 55007/open/tcp//pop3//Dovecot pop3d/	Ignored State: closed (65531)
+# Nmap done at Fri Mar 17 07:51:54 2023 -- 1 IP address (1 host up) scanned in 87.59 seconds

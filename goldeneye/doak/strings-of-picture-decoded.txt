@@ -1,0 +1,7 @@
+xWinter1995x!
+#by searching strings of the given photo in email, I found
+#eFdpbnRlcjE5OTV4IQ==
+#I decoded it and xWinter1995x! is the result.
+
+#Worked for username: admin, password: xWinter1995x!
+#Unauthorized access gained to admin login for website.

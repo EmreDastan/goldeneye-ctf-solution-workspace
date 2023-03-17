@@ -1,0 +1,2 @@
+#After finding the flag, this is the last hidden directory that we
+#reached: /006-final/xvf7-flag/

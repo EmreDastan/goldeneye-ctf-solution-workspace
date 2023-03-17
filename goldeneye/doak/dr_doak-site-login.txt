@@ -1,0 +1,3 @@
+username: dr_doak
+password: 4England!
+#works for severnaya-station.com/gnocertdir/ login.

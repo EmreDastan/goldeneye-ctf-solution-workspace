@@ -1,0 +1,5 @@
+username: xenia
+password: RCP90rulez!
+
+#Found in retr 2 in natalya's pop3 account
+#Able to login to severnaya-station.com/gnocertdir/ login page.
